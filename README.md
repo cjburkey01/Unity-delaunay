@@ -1,4 +1,10 @@
-# Fork of Unity-Delaunay
+# NOT MAINTAINED
+
+The original code kept crashing Unity, revealed internal core bugs in Unity. I tried to get Unity corp to accept / fix these, but they refused, so ... I found a better library to work with.
+
+Use Triangle.net, the open-source C# library that's higher performance with more features. It does delaunay and voronoi.
+
+## Fork of Unity-Delaunay
 
 This fork exists to add:
 
