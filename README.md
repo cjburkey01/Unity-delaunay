@@ -1,3 +1,4 @@
+# THIS IS A FORK OF THE FORK FOR ARCHIVE PURPOSES
 # NOT MAINTAINED
 
 The original code kept crashing Unity, revealed internal core bugs in Unity. I tried to get Unity corp to accept / fix these, but they refused, so ... I found a better library to work with.
